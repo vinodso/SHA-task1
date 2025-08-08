@@ -1,2 +1,4 @@
 # SHA-task1
-putty installastion steps screenshot
+go to putty command line terminal
+enter ec2 -user
+amazon ec2 server install
